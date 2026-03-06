@@ -6,6 +6,7 @@ import Estado from './Estado'
 import String from './String'
 import Booleano from './Booleano'
 import Lista from './Lista'
+import Objeto from './objeto'
 
 function App() {
 
@@ -23,6 +24,7 @@ function App() {
         <String/>
         <Booleano/>
         <Lista/>
+        <Objeto/>
       </div>
     </>
   )
